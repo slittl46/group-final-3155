@@ -3,9 +3,6 @@
 ## To Setup:
 Verify you have the latest version of Python Installed.
 
-```bash
-git clone https://github.com/slittl46/flask-web-notes-app.git
-```
 
 ```bash
 pip install -r required.txt
